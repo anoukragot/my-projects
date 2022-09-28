@@ -1,0 +1,48 @@
+body, body{
+text-align: center;
+color: black;
+border: 0px solid black;
+font-family: optima sans-serif;
+font-weight: extra-bold;
+background-image: url(images/xyz.jpg);
+}
+
+h1{
+border: 0px solid grey;
+text-align: center;
+margin: 10px 30%;
+border-radius: 7px;
+color: black;
+}
+
+div{
+	border: 0px solid black;
+	margin: 0 30px;
+	font: monospace ;
+}
+
+img{
+	width: 160px;
+	height: 140px;
+	border-radius: 50%;
+	align-content: center;
+}
+
+a{
+	align-content: center;
+	color: lightpink;
+}
+
+.container{
+	border: 1px solid 7D6E83 ;
+	border-radius: 5px;
+	background-color: #EFE8;
+	margin:  10% 10%;
+	box-shadow: 5px 5px 6px darkgrey;
+	padding: 25px;
+	color: black;
+}
+
+#app{
+
+}
